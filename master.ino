@@ -130,7 +130,7 @@ void loop() {
 
 
   //Reading the sensor and sending data via I2C
-  buttonState();
+  bState();
   delay(50);
   
   
